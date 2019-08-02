@@ -8,6 +8,8 @@ public class TestGit {
 		System.out.println("new branch found?");
 		System.out.println("new branch found?");
 		System.out.println("new branch found?");
+		System.out.println("new branch found?");
+		System.out.println("new branch found?");
 		
 	
 	}
