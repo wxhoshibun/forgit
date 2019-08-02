@@ -5,6 +5,8 @@ public class TestGit {
 		System.out.println("yep"
 				+ "");
 		System.out.println("new branch found?");
+		System.out.println("new branch found?");
+		
 	
 	}
 	
